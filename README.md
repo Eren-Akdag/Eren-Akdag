@@ -4,9 +4,9 @@
 
 <br>
 
--🔭 I’m interested in cyber security. Penetration testing and cyber threat intelligence are my main focus.
+- 🔭 I’m interested in cyber security. **Penetration testing** and **cyber threat intelligence** are my main focus.
 
-- 🌱 I’m currently learning **C++ , C , java and Python**
+- 🌱 I’m currently learning **C++** , **C** , **java** and **Python**
 
 - 📝 I regularly write articles on [https://medium.com/@Muhammet-Eren-Akdag](https://medium.com/@Muhammet-Eren-Akdag)
 
