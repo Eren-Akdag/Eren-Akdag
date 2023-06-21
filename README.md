@@ -16,9 +16,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammet-eren-akda%C4%9F-99429a224/](https://www.linkedin.com/in/muhammet-eren-akda%C4%9F-99429a224/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="margin-bottom: 20px;">
@@ -97,8 +94,19 @@
     </a>
 </p>
 
+<div align="left">
+
+### Latest Blog Posts
+
+- [Tor Browser — İnternetin Gizli Yüzünü Keşfedin](https://medium.com/@Muhammet-Eren-Akdag/tor-browser-i%CC%87nternetin-gizli-y%C3%BCz%C3%BCn%C3%BC-ke%C5%9Ffedin-a4c776e5ce2)
+- [Siber Suçluların Güçlü Silahı: Stealer Loglar — Verileriniz Nasıl Çalınıyor ve Nasıl Korunabilirsiniz](https://medium.com/@Muhammet-Eren-Akdag/siber-su%C3%A7lular%C4%B1n-g%C3%BC%C3%A7l%C3%BC-silah%C4%B1-stealer-loglar-verileriniz-nas%C4%B1l-%C3%A7al%C4%B1n%C4%B1yor-ve-nas%C4%B1l-1957fde36ea)
+- [HTTP’nin Diline Kulak Verin: İstek Metotları ve Cevap Durum Kodları Hakkında Her Şey](https://medium.com/@Muhammet-Eren-Akdag/httpnin-diline-kulak-verin-i%CC%87stek-metotlar%C4%B1-ve-cevap-durum-kodlar%C4%B1-hakk%C4%B1nda-her-%C5%9Fey-903646077ffb)
+
+</div>
 
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <!--
